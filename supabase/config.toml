@@ -1,0 +1,4 @@
+project_id = "szfjwyimncdzsnjfgxjb"
+
+[functions.travel-agent]
+verify_jwt = true
