@@ -173,16 +173,6 @@ For demo-mode you **do not need** real API keys. Use placeholders (or leave unse
 
 Example (safe placeholders):
 
-```env
-ENVIRONMENT=development
-DEBUG=true
-AMADEUS_API_KEY=demo_amadeus_key_dummy
-BOOKING_COM_API_KEY=demo_booking_key_dummy
-GOOGLE_MAPS_API_KEY=demo_google_maps_key_dummy
-SKYSCANNER_API_KEY=demo_skyscanner_key_dummy
-OPENAI_API_KEY=demo_openai_key_dummy
-USE_LANGGRAPH=false
-```
 
 When you later switch to real APIs, set the real keys in a secure environment and do NOT commit them to git.
 
